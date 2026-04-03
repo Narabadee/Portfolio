@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[24485,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js","/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js"],"Header"]
+3:I[27555,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js","/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js"],"Hero"]
+4:I[15290,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js","/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js"],"Projects"]
+5:I[57523,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js","/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js"],"Experience"]
+6:I[54464,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js","/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js"],"Skills"]
+7:I[89641,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js","/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js"],"Contact"]
+8:I[48131,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js","/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js"],"Footer"]
+9:I[97367,["/my-portfolio/_next/static/chunks/0iwz~d34oj_si.js","/my-portfolio/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],[["$","script","script-0",{"src":"/my-portfolio/_next/static/chunks/0_vgnuy2p3a9-.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zjAEzKtsvtwU1Nvd-7w9Y"}
+b:null
