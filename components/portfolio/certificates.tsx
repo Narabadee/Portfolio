@@ -40,6 +40,13 @@ const certificates = [
     date: "2568",
     description: "NIA SET E-learning",
     image: "/Portfolio/images/certificates/Certifacate5.jpeg"
+  },
+  {
+    id: 6,
+    title: "Software Engineer Certificate",
+    date: "2569",
+    description: "hackerrank.com certificate about Software Engineer Certificate test",
+    image: "/Portfolio/images/certificates/Certification7.jpeg"
   }
 ]
 
